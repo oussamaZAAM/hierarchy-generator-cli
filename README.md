@@ -1,4 +1,4 @@
-# Folder Creator CLI
+# Hierarchy Generator CLI
 
 A simple and efficient command-line interface (CLI) tool to create nested folder and file structures from a single command. This tool is perfect for quickly setting up project directories and files with minimal effort.
 
