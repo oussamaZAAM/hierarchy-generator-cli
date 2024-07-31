@@ -1,5 +1,5 @@
 {
-  "name": "hierarchy-gen-cli",
+  "name": "@oussamaZAAM/hierarchy-gen-cli",
   "version": "1.0.0",
   "description": "CLI to create folder hierarchy and file structures from a single command",
   "main": "index.js",
@@ -7,8 +7,15 @@
     "hierarchy-gen": "./index.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "exit 0"
   },
-  "author": "oussamazaam",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oussamaZAAM/hierarchy-generator-cli.git"
+  },
+  "publishConfig": {
+    "@oussamaZAAM:registry": "https://npm.pkg.github.com/"
+  },
+  "author": "oussamaZAAM",
   "license": "MIT"
 }
