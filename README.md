@@ -31,17 +31,17 @@ hierarchy-gen "root['Details of your hierarchy']"
 ### Example
 To create a directory structure like this:
 ```
-root\
-├── folder1\
-│   ├── subfolder1\
-│   │   ├── file1.txt\
-│   │   └── file2.txt\
-│   └── subfolder2\
-│       └── file3.txt\
-└── folder2\
-    ├── subfolder3\
-    │   └── file4.txt\
-    └── file5.txt\
+root
+├── folder1
+│   ├── subfolder1
+│   │   ├── file1.txt
+│   │   └── file2.txt
+│   └── subfolder2
+│       └── file3.txt
+└── folder2
+    ├── subfolder3
+    │   └── file4.txt
+    └── file5.txt
 ```
 Run the command:
 ``` bash
