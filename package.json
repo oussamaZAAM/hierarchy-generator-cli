@@ -1,0 +1,14 @@
+{
+  "name": "hierarchy-gen-cli",
+  "version": "1.0.0",
+  "description": "CLI to create folder hierarchy and file structures from a single command",
+  "main": "index.js",
+  "bin": {
+    "hierarchy-gen": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "oussamazaam",
+  "license": "MIT"
+}
