@@ -45,7 +45,7 @@ root
 ```
 Run the command:
 ``` bash
-folder-creator "root[folder1[subfolder1[file1.txt,file2.txt],subfolder2[file3.txt]],folder2[subfolder3[file4.txt],file5.txt]]"
+hierarchy-gen "root[folder1[subfolder1[file1.txt,file2.txt],subfolder2[file3.txt]],folder2[subfolder3[file4.txt],file5.txt]]"
 ```
 
 ## Contributing
